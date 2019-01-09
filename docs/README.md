@@ -1,5 +1,5 @@
 # CiCiCi
-The historical documentation and lifestyle of the elven Wizard Carric Caerdonel Cithreth, a.k.a. CiCiCi.
+The historical documentation and lifestyle of the elven wizard Carric Caerdonel Cithreth, a.k.a. CiCiCi.
 
 ## Table of Contents
 1. [Character Sheets](#character-sheets) - Links to character sheet PDF's, typically by level
