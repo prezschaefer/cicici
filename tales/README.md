@@ -6,4 +6,4 @@ A series of tales summerizing the experiences of the party, generally through th
 
 | Name | Date |
 |:---- |:----:|
-| [Bywater First Sights](https://github.com/prezschaefer/cicici/tales/entering_bywater_first_sights.md) | 2018/01/08 |
+| [Bywater First Sights](https://github.com/prezschaefer/cicici/blob/master/tales/bywater_first_sights.md) | 2018/01/08 |
