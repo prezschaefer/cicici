@@ -13,4 +13,4 @@ Links to character sheet PDF's. Please keep in mind they do not render well in G
 
 
 ## Historical Accounts
-A series of [tales](https://github.com/prezschaefer/cicici/blob/master/tales/README.md) about Carric's journeys, told through his own eyes. Certain events may be embellished to enhance the entertainment value.
+A series of [tales](https://github.com/prezschaefer/cicici/blob/master/docs/tales/README.md) about Carric's journeys, told through his own eyes. Certain events may be embellished to enhance the entertainment value.
