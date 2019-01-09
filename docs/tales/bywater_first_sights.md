@@ -21,7 +21,7 @@ Yet he was still unimpressed, children these days. So desensitized.
 If it doesn't involve a stick and a hoop rolling in a field, they aren't interested.
 ```
 ```
-We found the well with the dog inside. We explained to Timmy we'd lower him down to help the dog into the bucket.
+Timmy lead us to the well. We explained to Timmy we'd lower him down to help the dog up.
 However, I found it very inefficient to send Timmy down simply to place the dog in.
 I figured we could simply fill the well with water, to raise the dog up.
 Of course then it might be possible that the dog would drown.
