@@ -1,6 +1,6 @@
 # Publications
 
-Tomes and workers by Carric that have been published across the world, some popular, some not.
+Tomes and works by Carric that have been published across the world, some popular, some not.
 
 
 ## Table of Contents
