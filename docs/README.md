@@ -4,7 +4,7 @@ The historical documentation and lifestyle of the elven wizard Carric Caerdonel 
 ## Table of Contents
 1. [Character Sheets](#character-sheets) - Links to character sheet PDF's, typically by level
 2. [Historical Accounts](#historical-accounts) - Set of songs (historical accounts) of Carric's journeys
-
+3. [Publications](#publications) - Series of tomes and works produced by Carric throughout his life
 
 ## Character Sheets
 Links to character sheet PDF's. Please keep in mind they do not render well in Github, so you should download it to view it properly.
@@ -14,3 +14,7 @@ Links to character sheet PDF's. Please keep in mind they do not render well in G
 
 ## Historical Accounts
 A series of [tales](tales/README.md) about Carric's journeys, told through his own eyes. Certain events may be embellished to enhance the entertainment value.
+
+
+## Publications
+A series of [tomes and works](publications.md) which Carric has produced and are now published, some wide spread, others not as popular.
