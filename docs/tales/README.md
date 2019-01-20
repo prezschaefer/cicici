@@ -6,4 +6,5 @@ A series of tales summerizing the experiences of the party, generally through th
 
 | Name | Date |
 |:---- |:----:|
-| [Bywater First Sights](bywater_first_sights.md) | 2018/01/08 |
+| [Bywater First Sights](bywater_first_sights.md) | 2019/01/08 |
+| [Where's my Damn Stew](wheres_my_damn_stew.md) | 2019/01/15 |
