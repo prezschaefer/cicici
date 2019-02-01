@@ -8,7 +8,7 @@ Tomes and works by Carric that have been published across the world, some popula
 1. [Effects of Arcane objects and the Arcana upon the Brain](#effects-of-arcane-objects-and-the-arcana-upon-the-brain)
 2. [Evocation and its affect upon the Environment](#evocation-and-its-affect-upon-the-environment)
 3. [Control and Regulations on Magically Enchanted Items](#control-and-regulations-on-magically-enchanted-items)
-4. [Providing Free Arane Education to All](#providing-free-arcane-education-to-all)
+4. [Providing Free Arcane Education to All](#providing-free-arcane-education-to-all)
 
 
 ## Effects of Arcane objects and the Arcana upon the Brain
