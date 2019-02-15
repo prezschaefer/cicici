@@ -1,4 +1,4 @@
-# Foud Kilos of Smurf Powder
+# Four Kilos of Smurf Powder
 
 >There's no time to wait, we must leave the manor quickly and return to Bywater before any reinforcements arrive.
 >
