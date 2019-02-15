@@ -11,3 +11,4 @@ A series of tales summerizing the experiences of the party, generally through th
 | [Hidden in Town Hall](hidden_in_town_hall.md) | 2019/01/22 |
 | [Illegal Library Checkout](illegal_library_checkout.md) | 2019/02/01 |
 | [Goblin Outpost Confrontation](goblin_outpost_confrontation.md) | 2019/02/05 |
+| [Four Kilos of Smurf Powder](four_kilos_of_smurf_powder.md) | 2019/02/13 |

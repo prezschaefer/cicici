@@ -1,4 +1,4 @@
-## Illegal Library Checkout
+# Illegal Library Checkout
 
 >We sneaked back out of the underground passageways.
 >
