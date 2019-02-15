@@ -11,7 +11,8 @@ The historical documentation and lifestyle of the elven wizard Carric Caerdonel 
 Links to character sheet PDF's. Please keep in mind they do not render well in Github, so you should download it to view it properly.
 
 - [Level 1](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carric_caernodel_cithreth_lvl_1.pdf)
-- [Level 2](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carrir_caernodel_cithreth_lvl_2.pdf)
+- [Level 2](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carric_caernodel_cithreth_lvl_2.pdf)
+- [Level 3](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carric_caernodel_cithreth_lvl_3.pdf)
 
 
 ## Historical Accounts
