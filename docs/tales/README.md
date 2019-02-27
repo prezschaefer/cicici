@@ -4,11 +4,12 @@ A series of tales summerizing the experiences of the party, generally through th
 
 ## Historical log of Tales
 
-| Name | Date |
-|:---- |:----:|
-| [Bywater First Sights](bywater_first_sights.md) | 2019/01/08 |
-| [Where's my Damn Stew](wheres_my_damn_stew.md) | 2019/01/15 |
-| [Hidden in Town Hall](hidden_in_town_hall.md) | 2019/01/22 |
-| [Illegal Library Checkout](illegal_library_checkout.md) | 2019/02/01 |
-| [Goblin Outpost Confrontation](goblin_outpost_confrontation.md) | 2019/02/05 |
-| [Four Kilos of Smurf Powder](four_kilos_of_smurf_powder.md) | 2019/02/13 |
+| Id | Name | Date |
+|:--:|:---- |:----:|
+| 1 | [Bywater First Sights](bywater_first_sights.md) | 2019/01/08 |
+| 2 | [Where's my Damn Stew](wheres_my_damn_stew.md) | 2019/01/15 |
+| 3 | [Hidden in Town Hall](hidden_in_town_hall.md) | 2019/01/22 |
+| 4 | [Illegal Library Checkout](illegal_library_checkout.md) | 2019/02/01 |
+| 5 | [Goblin Outpost Confrontation](goblin_outpost_confrontation.md) | 2019/02/05 |
+| 6 | [Four Kilos of Smurf Powder](four_kilos_of_smurf_powder.md) | 2019/02/13 |
+| 7 | [Escort Tricks](escort_tricks.md) | 2019/02/20 |
