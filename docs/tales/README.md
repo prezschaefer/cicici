@@ -13,3 +13,4 @@ A series of tales summerizing the experiences of the party, generally through th
 | 5 | [Goblin Outpost Confrontation](goblin_outpost_confrontation.md) | 2019/02/05 |
 | 6 | [Four Kilos of Smurf Powder](four_kilos_of_smurf_powder.md) | 2019/02/13 |
 | 7 | [Escort Tricks](escort_tricks.md) | 2019/02/20 |
+| 8 | [Fight to the Death?](fight_to_the_death.md) | 2019/02/28 |
