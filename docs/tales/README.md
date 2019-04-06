@@ -17,3 +17,4 @@ A series of tales summerizing the experiences of the party, generally through th
 | 9 | [Descent into the Graveyard](descent_into_the_graveyard.md) | 2019/03/06 |
 | 10 | [Don't Poke That!](dont_poke_that.md) | 2019/03/21 |
 | 11 | [Catacomb of Doors](catacomb_of_doors.md) | 2019/03/27 |
+| 12 | [Exit the Catabombs](exit_the_catacombs.md) | 2019/04/03 |
