@@ -12,6 +12,7 @@ Links to character sheet PDF's. Please keep in mind they do not render well in G
 - [Level 1](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carric_caernodel_cithreth_lvl_1.pdf)
 - [Level 2](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carric_caernodel_cithreth_lvl_2.pdf)
 - [Level 3](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carric_caernodel_cithreth_lvl_3.pdf)
+- [Level 4](https://github.com/prezschaefer/cicici/blob/master/character_sheets/carric_caernodel_cithreth_lvl_4.pdf)
 
 ## Historical Accounts
 A series of [tales](tales/README.md) about Carric's journeys, told through his own eyes. Certain events may be embellished to enhance the entertainment value.
