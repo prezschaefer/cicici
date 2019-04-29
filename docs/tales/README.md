@@ -19,3 +19,4 @@ A series of tales summerizing the experiences of the party, generally through th
 | 11 | [Catacomb of Doors](catacomb_of_doors.md) | 2019/03/27 |
 | 12 | [Exit the Catabombs](exit_the_catacombs.md) | 2019/04/03 |
 | 13 | [Death of Hwon](death_of_hwon.md) | 2019/04/09 |
+| 14 | [Journey to Spider Tower](journey_to_spider_tower.md) | 2019/04/24 |
